@@ -1,4 +1,4 @@
-# K-Nearest-Neighbor-for-data-classification
+# K Nearest Neighbor for data classification
 K-nearest neighbor is a supervised learning algorithm where the result of new instance query is classified based on majority of K-nearest neighbor category
 
 ## Getting Started
